@@ -1,1 +1,1 @@
-# POO
+usaremos C# e .NET
